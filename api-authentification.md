@@ -27,6 +27,7 @@ We will send you the details with client ID, Client secrete, API key and API add
            scope:"check scope values below"
         }
      
+     
 > **Note**: 
 
         scope=upload
@@ -34,7 +35,10 @@ We will send you the details with client ID, Client secrete, API key and API add
         scope=deleteReports
         scope=deleteAccount
 
-      hashKey: this is Generated using hash and it will be unque to perticular user in you'r system. Either you can use your user's id or mail address and once you hash it we will not know what is it. This is helpul if you want to know the pertical user's reports and his activities in our system. 
+      hashKey: this is Generated using hash and it will be unque to 
+      perticular user in you'r system. Either you can use your 
+      user's id or mail address and once you hash it we will not know what is it. This is helpul if you want to know the 
+      pertical user's reports and his activities in our system. 
 
 - The Responce you will get from above request will be 
 
