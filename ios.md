@@ -46,7 +46,6 @@
             FocalxAi.showDamageGuide(caller:self,token:"Token you get from API call from your backend")
             
     -   **Note**
-
    
           self here is the current controller  from where you want to present DamageGuide
 
