@@ -30,18 +30,16 @@
 
 9. Before showing FocalX.ai damage Guide, please create a token and supply it to 
 
+-   Please check the API documentation to create Token to supply to our SDK 
 
--   Please check the API documentation to create Token to supply to our SDK
-
+- [API Token generation](https://github.com/pritamfocal/Documents/blob/main/api-authentification.md)
 
 -   For Objective-C
-
              
         [FocalxAi showDamageGuide:self token:@"Token you get from API call from your backend"];
     -   **Note**
 
          self here is the current controller  from where you want to  present DamageGuide
-
 
 -  For Swift
 
@@ -54,10 +52,6 @@
 
 And that's it!
 
-
 ## What is NSAllowsArbitraryLoads?
 
 A Boolean value used to disable App Transport Security for any domains not listed in the NSExceptionDomains dictionary. Listed domains use the settings specified for that domain. The default value of NO requires the default App Transport Security behavior for all connections.
-
-
-
