@@ -6,4 +6,4 @@
 
 ## Products
 * [iOS SDK integration](https://github.com/pritamfocal/Documents/blob/main/ios.md)
-* [Android SDK integration](https://github.com/pritamfocal/Documents/blob/main/Android.md)
+* [Android SDK integration](https://github.com/pritamfocal/Documents/blob/main/android.md)
