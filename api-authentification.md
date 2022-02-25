@@ -24,7 +24,17 @@ We will send you the details with client ID, Client secrete, API key and API add
            clientSecret:"Client Secrete you got from us"
            apiKey:"key that we will change once a month and you will get updated apiKey from this API responce only"
            hashKey:"Some user unique identifier"
+           scope:"check scope values below"
         }
+     
+> **Note**: 
+
+        scope=upload
+        scope=readReports
+        scope=deleteReports
+        scope=deleteAccount
+
+      hashKey: this is Generated using hash and it will be unque to perticular user in you'r system. Either you can use your user's id or mail address and once you hash it we will not know what is it. This is helpul if you want to know the pertical user's reports and his activities in our system. 
 
 - The Responce you will get from above request will be 
 
