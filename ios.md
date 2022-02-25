@@ -43,7 +43,7 @@
 
 -  For Swift
 
-            FocalxAi.showDamageGuide(caller:self,token:"Token you get from API call from your backend")
+        FocalxAi.showDamageGuide(caller:self,token:"Token you get from API call from your backend")
             
     -   **Note**
    
